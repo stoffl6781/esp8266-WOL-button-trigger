@@ -14,8 +14,8 @@ Another button can be used to switch to AP mode in order to save the settings fo
 The project was created with Wifimanager from tzapu.
 
 Required libraries:
-include <FS.h>
-#include <ArduinoJson.h> V5
-#include <WiFiManager.h>
-#include <WiFiUDP.h>
-#include <WakeOnLan.h>
+include <FS.h> Lib Manager
+include <ArduinoJson.h> V5 Lib Maanger
+include <WiFiManager.h> https://github.com/tzapu/WiFiManager
+include <WiFiUDP.h>
+include <WakeOnLan.h> https://github.com/koenieee/WakeOnLan-ESP8266
