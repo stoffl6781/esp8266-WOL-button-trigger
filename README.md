@@ -15,7 +15,11 @@ The project was created with Wifimanager from tzapu.
 
 Required libraries:
 include <FS.h> Lib Manager
-include <ArduinoJson.h> V5 Lib Maanger
+
+include <ArduinoJson.h> V5 Lib Manager
+
 include <WiFiManager.h> https://github.com/tzapu/WiFiManager
-include <WiFiUDP.h>
+
+include <WiFiUDP.h> Lib Manager
+
 include <WakeOnLan.h> https://github.com/koenieee/WakeOnLan-ESP8266
